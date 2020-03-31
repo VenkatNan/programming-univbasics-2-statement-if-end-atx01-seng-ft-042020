@@ -1,3 +1,4 @@
 # Write your solution here
 if true
-  puts "T"
+  puts "This code runs!"
+end
